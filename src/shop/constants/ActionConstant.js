@@ -1,0 +1,8 @@
+
+ export default {
+// Action Types
+   REQUEST_SEARCH_LIST: 'REQUESTSEARCHLIST',
+   SEARCH_LIST_SUCCESS: 'SUCCESS',
+   SEARCH_LIST_FAILURE: 'FAILURE',
+
+ };
