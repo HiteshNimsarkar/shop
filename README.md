@@ -19,4 +19,4 @@ npm start
 open http://localhost:8080
 ```
 
-Android Devices are supported.
+#### note : Android Devices are supported.
